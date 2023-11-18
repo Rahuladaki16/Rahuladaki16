@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @rdx1610
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning full stack development.
+- 🌱 I’m full stack developer.
 - 💞️ I’m looking to collaborate on ...
+- $$  I'm working as a freelancer.....
 - 📫 How to reach me rahuladaki16@gmail.com
 
 <!---
